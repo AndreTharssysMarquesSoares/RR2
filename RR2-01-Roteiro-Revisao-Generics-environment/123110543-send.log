@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-12T10:49:09.620-0300</date>
+  <logger>ANDRE THARSSYS MARQUES SOARES</logger>
+  <level>FINE</level>
+  <message>File 123110543-ANDRE THARSSYS MARQUES SOARES.zip was received. It was sent by ANDRE THARSSYS MARQUES SOARES from IP 150.165.74.114 at 12-07-2024 10*49*09</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-12T11:09:01.936-0300</date>
+  <logger>ANDRE THARSSYS MARQUES SOARES</logger>
+  <level>FINE</level>
+  <message>File 123110543-ANDRE THARSSYS MARQUES SOARES.zip was received. It was sent by ANDRE THARSSYS MARQUES SOARES from IP 150.165.74.114 at 12-07-2024 11*09*01</message>
+</record>
